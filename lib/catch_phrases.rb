@@ -15,10 +15,7 @@ def link
 end
 
 def any_phrase(phrase)
-  puts "Do A Barrel Roll!\n"
+  puts phrase
 end
 
-mario
-toadstool
-link
-any_phrase
+
